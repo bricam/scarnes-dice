@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_roll">ROLL</string>
+    <string name="button_hold">HOLD</string>
+    <string name="button_reset">RESET</string>
+    <string name="text_yourscore">Your Score:</string>
+    <string name="text_computerScore">Computer\'s Score:</string>
+    <string name="playerValue">0</string>
+    <string name="gameStatusView">Your Score: 0, Computer\'s Score: 0</string>
+    <string name="defaultScore">Your Score: 0, Computer\'s Score: 0</string>
+</resources>
